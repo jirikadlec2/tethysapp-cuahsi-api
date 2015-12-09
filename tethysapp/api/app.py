@@ -6,7 +6,7 @@ class Api(TethysAppBase):
     Tethys app class for api.
     """
 
-    name = 'api'
+    name = 'CUAHSI Apps API'
     index = 'api:home'
     icon = 'api/images/api_logo1.png'
     package = 'api'
